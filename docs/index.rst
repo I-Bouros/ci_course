@@ -10,6 +10,8 @@ Welcome to CI Course's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   quickstart
+
 Hello world!
 
 Indices and tables
