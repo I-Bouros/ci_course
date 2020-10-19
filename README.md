@@ -1,6 +1,8 @@
 ![Run unit tests](https://github.com/I-Bouros/ci_course/workflows/Run%20unit%20tests/badge.svg)
 [![BCH compliance](https://bettercodehub.com/edge/badge/I-Bouros/ci_course?branch=main)](https://bettercodehub.com/)
 [![codecov](https://codecov.io/gh/I-Bouros/ci_course/branch/main/graph/badge.svg?token=6WZEOC80MS)](undefined)
+[![Documentation Status](https://readthedocs.org/projects/ci-course-1/badge/?version=latest)](https://ci-course-1.readthedocs.io/en/latest/?badge=latest)
+
 
 # OxRSE Continuous Integration course
 
