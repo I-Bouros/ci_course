@@ -1,4 +1,4 @@
 Quickstart
 ==========
 
-It's good to have a Quickstart guide:))
+Having a Quickstart guide is a good idea.
