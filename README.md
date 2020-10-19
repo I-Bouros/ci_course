@@ -1,4 +1,5 @@
 ![Run unit tests](https://github.com/I-Bouros/ci_course/workflows/Run%20unit%20tests/badge.svg)
+[![BCH compliance](https://bettercodehub.com/edge/badge/I-Bouros/ci_course?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
